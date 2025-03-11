@@ -6,18 +6,18 @@ Traditional Hypergraph Neural Networks (HGNNs) often assume that hypergraph stru
 </p>
 
 
-# Framework diagram of SHSL
+##  Framework diagram of SHSL
 ![Fig2](https://github.com/user-attachments/assets/23f97ab0-dff9-439c-a841-459b1b4927fe)
-# Contrastive views for different tasks
+##  Contrastive views for different tasks
 ![Fig2](https://github.com/user-attachments/assets/81758415-8a77-4e24-b0dd-224d2fda0d89)
-# Example  
+##  Example  
 
 ```bash
 python main.py
 ```
-# Contact
+##  Contact
 GitHub Issues: Please open an issue for bugs and questions.
 
-# Citation  
+##  Citation  
 
 If you find this work helpful, please consider citing our paper:  
